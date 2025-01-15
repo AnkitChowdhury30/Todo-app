@@ -12,7 +12,7 @@ A simple and stylish To-Do App built with HTML, CSS, and JavaScript. This app al
 
 ## Preview
 
-![Todo App Screenshot](images/ScreenShot.png)
+![Todo App Screenshot](../images/ScreenShot.png)
 
 ## Usage
 
@@ -57,4 +57,12 @@ A simple and stylish To-Do App built with HTML, CSS, and JavaScript. This app al
 Tasks are saved in the browser's local storage, which allows them to persist even after the page is refreshed.
 
 ## Project Structure
-
+todo-app/ 
+│ ├── images/ 
+│ └── todo-img.jpg 
+│ └── unchecked.png 
+│ └── checked.webp 
+│ ├── styles.css
+├── main.js
+├── index.html
+└── README.md
